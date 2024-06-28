@@ -23,7 +23,6 @@ This repository is dedicated to exploring various design patterns in software en
 
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
-
    ```
 
 2. Install NPM packages
